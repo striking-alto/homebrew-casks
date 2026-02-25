@@ -1,6 +1,6 @@
 cask "bartender@4" do
   version "4.2.25"
-  sha256 "your_sha256_hash_here"
+  sha256 "7e594d4955808df139bc3aa4a408a8bacbfdb64e18970e843d381eadce487299"
 
   url "https://www.macbartender.com/B2/updates/B4Latest/Bartender%204.dmg"
 
